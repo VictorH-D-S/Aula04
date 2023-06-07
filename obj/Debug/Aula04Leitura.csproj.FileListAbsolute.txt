@@ -1,0 +1,7 @@
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\bin\Debug\Aula04Leitura.exe.config
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\bin\Debug\Aula04Leitura.exe
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\bin\Debug\Aula04Leitura.pdb
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\obj\Debug\Aula04Leitura.csproj.AssemblyReference.cache
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\obj\Debug\Aula04Leitura.csproj.CoreCompileInputs.cache
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\obj\Debug\Aula04Leitura.exe
+C:\Users\victor.hsantos45\source\repos\Aula04Leitura\Aula04Leitura\obj\Debug\Aula04Leitura.pdb
